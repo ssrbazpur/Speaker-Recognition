@@ -9,7 +9,8 @@ REQUIREMENTS:
 4.import matplotlib
 
 STEPS TO IMPLEMENT THE PROGRAM:
-1.COPY AND PASTE ALL FILES of noise-less folder in the same directory in your computer
-2.RUN test.py to carry out testing 
-3.Ensure that test and train folder is in the same directory as test.py
-4.Similarly implement the program for noisy folder.
+1.Download all python files.
+2.Download the train and test folder for noise less environment from dataset and place both the folders in the same directory in which python files were downloaded.
+3.RUN test.py to carry out testing for noise less environment.
+4. Similarly now change the train and test folder with the noisy 
+5.Ensure that test and train folder is in the same directory as test.py before running test.py
