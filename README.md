@@ -9,6 +9,8 @@ STEPS TO IMPLEMENT THE PROGRAM:
 1.Download all python files.
 2.Download the train and test folder for noise less environment from dataset and place both the folders in the same directory in which python files were downloaded.
 3.RUN test.py to carry out testing for noise less environment.
-4. Similarly now change the train and test folder with the noisy train and test folders. 
+4.Similarly now change the train and test folder with the noisy train and test folders. 
+5.RUN test.py to carry out testing for noisy environment.
 
 #Ensure that test and train folder is in the same directory as test.py before running test.py
+#train.py is called in test.py. So you are required to run test.py only.(Ensure everything is in the same directory)
