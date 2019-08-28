@@ -8,7 +8,7 @@ alt="Speaker Recognition" width="600" />
 ## Aim
 The main aim is to implement Speaker Recognition system.Speaker recognition is the identification of a person from characteristics of voices (voice biometrics).It takes voice of 4 different speakers and tries to identify the speaker.The voices were recorded in both noisy and noise less environment.The results showed that the system works effectively in the noise less environment recognising all 4 voices corrently whereas in noisy environment 3 speakers were identified correctly.
 
-## REQUIREMENTS:
+## Requirements:
 <ul>
   <li>
     Python 3.6 </li>
@@ -17,7 +17,7 @@ The main aim is to implement Speaker Recognition system.Speaker recognition is t
   <li>Matplotlib</li>
   </ul>
 
-## STEPS TO IMPLEMENT THE PROGRAM:
+## Steps to Implement the Program:
 <ol>
   <li>
     Download all python files.</li>
